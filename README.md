@@ -1,3 +1,5 @@
+🇧🇷 **Português** | 🇺🇸 [English](README.en.md)
+
 # Titanic — EDA, Pipeline de Classificação e Bônus de Regressão
 
 Pipeline de Machine Learning reproduzível, ponta a ponta, para prever a sobrevivência de passageiros do Titanic: análise exploratória orientada a hipóteses, feature engineering, comparação de modelos com validação cruzada, tuning e avaliação honesta em holdout — sem vazamento de dados. Um bônus final aplica as mesmas técnicas a um problema de regressão com target assimétrico (`Fare`), no estilo *House Prices — Ames*.
